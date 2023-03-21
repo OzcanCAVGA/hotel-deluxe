@@ -18,8 +18,8 @@ Proje, bir otelin web-sitesini oluşturmak için yazılmıştır. İçerisinde d
     ├── 1.jpeg
     ├── 2.jpeg
     ├── 3.jpeg
-	...
-    └── room3.jpeg
+		...
+		└── room3.jpeg
 		
 ```
 
@@ -43,23 +43,23 @@ Ana sayfa, kullanıcılara web sitesinin ana içeriğini sunar.
 
 —Home
 
-![Untitled](Hotel%20Deluxe%20f0ff0c29a29345d9a4215f20708a67ee/Untitled.png)
+![Untitled](img/r1.png)
 
 —About
 
-![Untitled](Hotel%20Deluxe%20f0ff0c29a29345d9a4215f20708a67ee/Untitled%201.png)
+![Untitled](img/r2.png)
 
 —Rooms
 
-![Untitled](Hotel%20Deluxe%20f0ff0c29a29345d9a4215f20708a67ee/Untitled%202.png)
+![Untitled](img/r3.png)
 
 —Contact
 
-![Untitled](Hotel%20Deluxe%20f0ff0c29a29345d9a4215f20708a67ee/Untitled%203.png)
+![Untitled](img/r4.png)
 
 —Footer
 
-![Untitled](Hotel%20Deluxe%20f0ff0c29a29345d9a4215f20708a67ee/Untitled%204.png)
+![Untitled](img/r5.png)
 
 ### Blog Sayfası
 
@@ -67,7 +67,7 @@ Blog sayfası, kullanıcılara siteyle ilgili makalelere ve diğer yazıları su
 
 —Blogs
 
-![Untitled](Hotel%20Deluxe%20f0ff0c29a29345d9a4215f20708a67ee/Untitled%205.png)
+![Untitled](img/r6.png)
 
 ## Lisans
 
