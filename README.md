@@ -33,9 +33,6 @@ Proje, bir otelin web-sitesini oluşturmak için yazılmıştır. İçerisinde d
 
 Bu proje, `HTML` ve `CSS` kullanılarak oluşturulmuştur.
 
-## Nasıl Kullanılır
-
-…
 
 ### Örnek Sayfalar
 
