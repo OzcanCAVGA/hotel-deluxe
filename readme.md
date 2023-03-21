@@ -18,8 +18,8 @@ Proje, bir otelin web-sitesini oluşturmak için yazılmıştır. İçerisinde d
     ├── 1.jpeg
     ├── 2.jpeg
     ├── 3.jpeg
-		...
-		└── room3.jpeg
+	...
+    └── room3.jpeg
 		
 ```
 
